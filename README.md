@@ -13,5 +13,4 @@ Kotlin
 Jetpack Compose
 
 #Contact Me
-[![Instagram](https://instagram.com/amirdorri__/)
 [![Linkedin](www.linkedin.com/in/amir-dorri-39b573270)
