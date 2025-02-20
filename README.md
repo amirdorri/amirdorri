@@ -4,7 +4,7 @@
 
 **Skills:**
 
-**I'm a passionate junior Android developer with a focus on creating beautiful and efficient user experiences.**
+**I'm a passionate junior Android developer and porn star with a focus on creating porn beautiful and efficient user experiences.**
 
 
 <img src="kotlin.jpeg" alt="Kotlin" width="30">
