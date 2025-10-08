@@ -19,7 +19,9 @@
 
 **Let's Connect!**
 
-<a href="https://www.linkedin.com/in/amir-dorri-39b573270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="likedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://t.me/amir_dorri"><img src="telegram.jpeg" alt="Telegram" width="30"></a>
+<a href="https://www.linkedin.com/in/amir-dorri-39b573270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="likedin.png" alt="LinkedIn" width="30" height="40"></a>
+<a href="https://t.me/amir_dorri"><img src="telegram.jpeg" alt="Telegram" width="30" height="30"></a>
+<a href="https://medium.com/@amirdorri"><img src="medium_images.png" alt="Medium" width="30" height="30"></a>
+ 
 
 **Feel free to reach out if you have any questions or want to collaborate on a project!**
