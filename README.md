@@ -1,27 +1,53 @@
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
-# About Me <img src="zandroid.png" alt="amir" width="50"> 
+<p align="left">My name is Amir and I'm a mobile developer, from Iran</p>
 
-**Skills:**
+###
 
-**I'm a passionate junior Android developer with a focus on creating beautiful and efficient user experiences.**
+<h2 align="left">About me</h2>
 
+###
 
-<img src="kotlin.jpeg" alt="Kotlin" width="30">
-<img src="compose.png" alt="Jetpack Compose" width="30">
-<img src="Flutter.jpg" alt="Flutter" width="30">
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning flutter<br>🎯 Goals: native android, flutter, ios<br>
 
-* **Kotlin Coroutines**
-* **dependency injection**
-* **MVVM**
-* **Storage** (Room DB- DataStore)
-* **Git**
+###
 
-**Let's Connect!**
+<h2 align="left">I code with</h2>
 
-<a href="https://www.linkedin.com/in/amir-dorri-39b573270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="likedin.png" alt="LinkedIn" width="30" height="40"></a>
-<a href="https://t.me/amir_dorri"><img src="telegram.jpeg" alt="Telegram" width="30" height="30"></a>
-<a href="https://medium.com/@amirdorri"><img src="medium_images.png" alt="Medium" width="30" height="30"></a>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+</div>
 
-**Feel free to reach out if you have any questions or want to collaborate on a project!**
+###
+<h2 align="left">feel free to contact me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amir-dorri-39b573270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://medium.com/@amirdorri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+  </a>
+  <a href="https://t.me/amir_dorri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+</div>
+
+
+###
